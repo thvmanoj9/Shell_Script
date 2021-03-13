@@ -3,7 +3,7 @@
 echo Welcome to DevOps training
 echo DevOps Training Timings - 6AM
 echo DevOps Trainer - Raghu
-
+x sacccccc
 COURSE_NAME=DevOps
 
 echo Welcome to $COURSE_NAME training
