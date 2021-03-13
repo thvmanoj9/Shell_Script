@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Modifed the variables
 echo Welcome to DevOps training
 echo DevOps Training Timings - 6AM
 echo DevOps Trainer - Raghu
